@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Villa Catalog</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; }
+        .villa { border: 1px solid #ddd; margin: 10px 0; padding: 15px; background: #fff; border-radius: 5px; }
+        .villa h2 { margin: 0 0 10px; }
+        .villa p { margin: 5px 0; }
+        a { color: #007BFF; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Villa Catalog</h1>
+    <div class="villa">
+        <h2>Luxury Villa with Seaview</h2>
+        <p><strong>Location:</strong> Bophut, Koh Samui</p>
+        <p><strong>Price:</strong> 130 000 б/месяц</p>
+        <p><strong>Availability:</strong> Доступно сейчас до 6 января 2025</p>
+        <p><strong>Features:</strong> WiFi, pool, cleaning, gardening</p>
+        <p><strong>Additional Expenses:</strong> Not specified</p>
+        <p><strong>Contact:</strong> <a href="https://line.me/ti/p/94bNpR0Quq" target="_blank">Contact Link</a></p>
+    </div>
+    <div class="villa">
+        <h2>Fisherman Seaview Villa</h2>
+        <p><strong>Location:</strong> Bophut, Koh Samui</p>
+        <p><strong>Price:</strong> 135,000 THB/month</p>
+        <p><strong>Availability:</strong> Available 16 January 2025</p>
+        <p><strong>Features:</strong> weekly cleaning, pool cleaning, internet, garbage collect</p>
+        <p><strong>Additional Expenses:</strong> Electricity (10 THB/kWh, avg 9,000-12,000)</p>
+        <p><strong>Contact:</strong> <a href="https://drive.google.com/drive/folders/1D1w0WQARXYlV34opzv3o3t2qQZIMjT7n" target="_blank">Contact Link</a></p>
+    </div>
+    <div class="villa">
+        <h2>Bophut 4-Bed Villa</h2>
+        <p><strong>Location:</strong> Bophut, Koh Samui</p>
+        <p><strong>Price:</strong> 140,000 THB/month</p>
+        <p><strong>Availability:</strong> Available 3 March 2025</p>
+        <p><strong>Features:</strong> internet, maintenance of the pool, cleaning</p>
+        <p><strong>Additional Expenses:</strong> Electricity (9 THB/unit)</p>
+        <p><strong>Contact:</strong> <a href="http://wa.me/660611909996" target="_blank">Contact Link</a></p>
+    </div>
+</body>
+</html>
